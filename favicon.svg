@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 640 640"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="graduation-cap-solid.svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   width="640"
+   height="640"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.5546875"
+     inkscape:cx="320"
+     inkscape:cy="255.35678"
+     inkscape:window-width="1920"
+     inkscape:window-height="1000"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <!--! Font Awesome Pro 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. -->
+  <path
+     d="m 320,94 c -8.1,0 -16.1,1.4 -23.7,4.1 L 15.8,199.4 C 6.3,202.9 0,211.9 0,222 c 0,10.1 6.3,19.1 15.8,22.6 l 57.9,20.9 C 57.3,291.3 48,321.8 48,353.9 V 382 c 0,28.4 -10.8,57.7 -22.3,80.8 -6.5,13 -13.9,25.8 -22.5,37.6 -3.2,4.3 -4.1,9.9 -2.3,15 1.8,5.1 6,8.9 11.2,10.2 l 64,16 c 4.2,1.1 8.7,0.3 12.4,-2 3.7,-2.3 6.3,-6.1 7.1,-10.4 C 104.2,486.4 99.9,448 93.5,420.5 90.3,406.3 86,391.8 80,378.5 v -24.6 c 0,-30.2 10.2,-58.7 27.9,-81.5 12.9,-15.5 29.6,-28 49.2,-35.7 l 157,-61.7 c 8.2,-3.2 17.5,0.8 20.7,9 3.2,8.2 -0.8,17.5 -9,20.7 l -157,61.7 c -12.4,4.9 -23.3,12.4 -32.2,21.6 l 159.6,57.6 c 7.6,2.7 15.6,4.1 23.7,4.1 8.1,0 16.1,-1.4 23.7,-4.1 l 280.6,-101 c 9.5,-3.4 15.8,-12.5 15.8,-22.6 0,-10.1 -6.3,-19.1 -15.8,-22.6 L 343.7,98.1 C 336.1,95.4 328.1,94 320,94 Z M 128,470 c 0,35.3 86,72 192,72 106,0 192,-36.7 192,-72 L 496.7,324.6 354.5,376 c -11.1,4 -22.8,6 -34.5,6 -11.7,0 -23.5,-2 -34.5,-6 L 143.3,324.6 Z"
+     id="path1"
+     style="fill:#ffffff" />
+</svg>

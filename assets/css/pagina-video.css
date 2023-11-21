@@ -1,0 +1,83 @@
+@charset "UTF-8";
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  height: 100%;
+  width: 100%;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 1rem;
+}
+
+body h1 {
+  font-size: 2rem;
+  font-weight: bold;
+  color: #003a87;
+  margin-bottom: 2rem;
+  width: 100%;
+  text-align: center;
+}
+
+.linha {
+  display: flex;
+  width: 100%;
+  margin-bottom: 0.5rem;
+}
+
+.item-nome-curso,
+.item-canal-curso,
+.item-ano-curso,
+.item-video-curso {
+  color: red;
+  font-weight: bold;
+  font-size: 1.25rem;
+  width: 7.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.nome-curso,
+.nome-canal,
+.ano-curso,
+.item-curso {
+  font-weight: bold;
+  font-size: 1.25rem;
+}
+
+.item-curso::after {
+  content: "\00A0";
+  position: relative;
+  font-size: 1.25rem;
+  display: inline-block;
+}
+
+.item-video-curso {
+  margin-bottom: 1rem;
+}
+
+hr {
+  display: block;
+  width: 100%;
+  margin-bottom: 1.5rem;
+}
+
+@media only screen and (max-width: 600px) {
+  html {
+    font-size: 0.75rem
+  }
+
+  body h1 {
+    width: 16rem;
+  }
+
+  iframe {
+    max-width: 15rem;
+    max-height: 8.375rem;
+  }
+}
