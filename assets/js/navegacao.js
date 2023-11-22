@@ -103,6 +103,15 @@ document.getElementById("c-sharp-video").addEventListener("click", () => {
     "./assets/pages/videos/programacao/c-sharp-video.html";
 });
 
+document.getElementById("flutter-video").addEventListener("click", () => {
+  document
+    .querySelectorAll(".tela-ativa")
+    .forEach((el) => el.classList.remove("tela-ativa"));
+  document.querySelector("#flutter-video").classList.add("tela-ativa");
+  document.getElementById("iframe-principal").src =
+    "./assets/pages/videos/programacao/flutter-video.html";
+});
+
 document.getElementById("git-github-video").addEventListener("click", () => {
   document
     .querySelectorAll(".tela-ativa")
@@ -139,13 +148,13 @@ document.getElementById("javascript-video").addEventListener("click", () => {
     "./assets/pages/videos/programacao/javascript-video.html";
 });
 
-document.getElementById("mobile-video").addEventListener("click", () => {
+document.getElementById("kotlin-video").addEventListener("click", () => {
   document
     .querySelectorAll(".tela-ativa")
     .forEach((el) => el.classList.remove("tela-ativa"));
-  document.querySelector("#mobile-video").classList.add("tela-ativa");
+  document.querySelector("#kotlin-video").classList.add("tela-ativa");
   document.getElementById("iframe-principal").src =
-    "./assets/pages/videos/programacao/mobile-video.html";
+    "./assets/pages/videos/programacao/kotlin-video.html";
 });
 
 document.getElementById("node-video").addEventListener("click", () => {
@@ -166,6 +175,15 @@ document.getElementById("php-laravel-video").addEventListener("click", () => {
     "./assets/pages/videos/programacao/php-laravel-video.html";
 });
 
+document.getElementById("python-video").addEventListener("click", () => {
+  document
+    .querySelectorAll(".tela-ativa")
+    .forEach((el) => el.classList.remove("tela-ativa"));
+  document.querySelector("#python-video").classList.add("tela-ativa");
+  document.getElementById("iframe-principal").src =
+    "./assets/pages/videos/programacao/python-video.html";
+});
+
 document.getElementById("react-next-video").addEventListener("click", () => {
   document
     .querySelectorAll(".tela-ativa")
@@ -173,6 +191,15 @@ document.getElementById("react-next-video").addEventListener("click", () => {
   document.querySelector("#react-next-video").classList.add("tela-ativa");
   document.getElementById("iframe-principal").src =
     "./assets/pages/videos/programacao/react-next-video.html";
+});
+
+document.getElementById("react-native-video").addEventListener("click", () => {
+  document
+    .querySelectorAll(".tela-ativa")
+    .forEach((el) => el.classList.remove("tela-ativa"));
+  document.querySelector("#react-native-video").classList.add("tela-ativa");
+  document.getElementById("iframe-principal").src =
+    "./assets/pages/videos/programacao/react-native-video.html";
 });
 
 document.getElementById("sass-video").addEventListener("click", () => {
