@@ -26,6 +26,15 @@ body h1 {
   width: 100%;
 }
 
+body h2 {
+  font-size: 1.50rem;
+  font-weight: bold;
+  color: #003a87;
+  margin-bottom: 2rem;
+  text-align: center;
+  width: 100%;
+}
+
 body p {
   font-size: 1.25rem;
   text-align: justify;
@@ -35,6 +44,6 @@ body p {
 
 @media only screen and (max-width: 600px) {
   html {
-    font-size: 0.75rem;
+    font-size: 0.75rem
   }
 }

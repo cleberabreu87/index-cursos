@@ -258,6 +258,16 @@ document.getElementById("vue-nuxt-material").addEventListener("click", () => {
     "./assets/pages/material/programacao/vue-nuxt-material.html";
 });
 
+//Tela Sobre o Site
+document.getElementById("sobre").addEventListener("click", () => {
+  document
+    .querySelectorAll(".tela-ativa")
+    .forEach((el) => el.classList.remove("tela-ativa"));
+  document.querySelector("#sobre").classList.add("tela-ativa");
+  document.getElementById("iframe-principal").src =
+    "./assets/pages/sobre.html";
+});
+
 //Tela Contato
 document.getElementById("contato").addEventListener("click", () => {
   document
