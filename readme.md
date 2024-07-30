@@ -18,4 +18,4 @@ A ideia deste índice é ser simples e direto, onde você procura o tema desejad
 
 Fiquem a vontade para entrar em contato, sugestões de cursos e materiais são muito bem-vindas. Dou preferência para cursos em formato de playlist, pois assim fica mais fácil de acompanhar.
 
-IMPORTANTE: Todos os créditos dos cursos e materiais aqui listador são reservados e dedicados ao criadores dos cursos.
+IMPORTANTE: Todos os créditos dos cursos e materiais aqui listados são reservados e dedicados aos criadores dos cursos.
